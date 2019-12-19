@@ -1,4 +1,4 @@
-セットアップ資料
+セットアップ資料  
 https://developer.wordpress.org/block-editor/tutorials/javascript/js-build-setup/
 
 VSCodeの場合は Ctrl + Shift + @ でターミナルが開くはず
@@ -8,11 +8,12 @@ VSCodeの場合は Ctrl + Shift + @ でターミナルが開くはず
 ```
 npm run build
 ```
-開発
+開発する時は以下で監視＆自動ビルドスタート
 
 ```
 npm start
 ```
-終了
+
+以下で監視＆自動処理終了
 
 Ctrl + C
