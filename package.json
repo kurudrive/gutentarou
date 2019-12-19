@@ -1,0 +1,22 @@
+{
+  "name": "gutentarou",
+  "version": "1.0.0",
+  "description": "リードミーだよー！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurudrive/gutentarou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurudrive/gutentarou/issues"
+  },
+  "homepage": "https://github.com/kurudrive/gutentarou#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "6.0.0"
+  }
+}
