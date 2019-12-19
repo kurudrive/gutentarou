@@ -5,5 +5,5 @@ registerBlockType('myguten/test-block', {
  icon: 'smiley',
  category: 'layout',
  edit: () => <div>Hola, mundo!</div>,
- save: () => <div>Hola, mundo!</div>,
+ save: () => <div>Holaaaaaaa, mundo!</div>,
 });
